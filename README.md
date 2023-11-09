@@ -1,0 +1,1 @@
+# Yandex_scooter_api_tests
